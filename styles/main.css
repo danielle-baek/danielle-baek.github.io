@@ -1,19 +1,33 @@
 body {
-    background:rgb(177, 177, 255);
-    font-family:arial;
-    padding: 30px, 10px, 20px, 10px;
+    background:rgb(255, 144, 124);
+    font-family: arial, sans-serif;
+    color: rgb(255, 72, 40);
+    text-align: center;
+    margin:0px;
+    padding:0px;
 
 }
 
-h3 {
-    color:rgb(13, 87, 13); 
+.page-wrapper {
+    box-sizing: border-box;
+    background: white;
+    margin:10px;
+    width: 100%-10px;
 }
 
-.class1 {
-    background:rgb(255, 255, 127);
-    color:rgb(199, 0, 0);
+header {
+    padding: 15px;
+    font-size: 2em;
 }
 
-#title {
-    color:purple;
+.blogs ul {
+    background: rgb(233, 121, 121);
+    color: rgb(179, 47, 65);
+    
 }
+
+.blogs ul li {
+    padding: 10px;
+
+}
+
