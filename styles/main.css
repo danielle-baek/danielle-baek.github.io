@@ -19,6 +19,10 @@ header {
     font-size: 2em;
 }
 
+ul{
+    list-style: none;
+}
+
 .blogs ul {
     background: rgb(233, 121, 121);
     color: rgb(179, 47, 65);
@@ -29,4 +33,22 @@ header {
     padding: 10px;
 
 }
+
+h2 {
+    padding:30px;
+
+}
+
+.content {
+    padding:10px 300px 20px 300px;
+}
+
+.content h3 {
+    
+    color:rgb(216, 49, 27);
+
+}
+
+
+
 
