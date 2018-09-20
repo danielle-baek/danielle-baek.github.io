@@ -1,8 +1,7 @@
 body {
     background:orange;
-    font-family: "Oxygen", sans-serif;
+    font-family: 'Oxygen', sans-serif;
 }
-
 
 
 /* header */
@@ -51,17 +50,23 @@ header h1 {
         font-size: 50px;
     }
 
-
     /* sections */
-    .section {
-        width: 50%;
-    }
     .section h2 {
-        margin: 30px 0 0 0;
-        font-size: 30px;
+        margin: 80px 0 0 0;
+        font-size: 40px;
     }
 }
 
 /* Bigger than 1000 */
 @media (min-width: 1000px) {
+    /* header */
+    header h1 {
+        font-size: 50px;
+    }
+
+    /* sections */
+    .section h2 {
+        margin: 80px 0 0 0;
+        font-size: 40px;
+    }
 }
