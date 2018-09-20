@@ -38,15 +38,27 @@ header h1 {
     margin:0;
     padding: 10px;
     font-size: 20px;
+    font-weight: bold;
 }
 .blogtext {
     padding: 10px;
 }
+.blogtext h3{
+    font-size: 18px;
+    margin-top: 15px;
+    font-weight: bold;
+}
 .otherblogs h5{
     margin:0;
-    padding: 10px;
-    font-size: 18px;
+    padding: 10px 10px 15px 10px;
+    font-size: 20px;
+    font-weight: bold;
 }
+.otherblogs ul{
+    font-size: 13px;
+    list-style: none;
+}
+
 
 
 /* Larger than mobile */
