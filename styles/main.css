@@ -27,6 +27,27 @@ header h1 {
     font-size: 20px;
 }
 
+/* blogs */
+.blogtitle, .blogtext, .otherblogs{
+    background: white;
+    margin: 10px;
+    text-align: center;
+    
+}
+.blogtitle h4 {
+    margin:0;
+    padding: 10px;
+    font-size: 20px;
+}
+.blogtext {
+    padding: 10px;
+}
+.otherblogs h5{
+    margin:0;
+    padding: 10px;
+    font-size: 18px;
+}
+
 
 /* Larger than mobile */
 @media (min-width: 400px) {
