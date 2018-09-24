@@ -59,6 +59,9 @@ header h1 {
     list-style: none;
 }
 
+.wireframeImg {
+    width: 90%;
+}
 
 
 /* Larger than mobile */
@@ -89,6 +92,8 @@ header h1 {
         margin: 30px 0 0 0;
         font-size: 25px;
     }
+
+    
 }
 
 /* Bigger than 550 */
