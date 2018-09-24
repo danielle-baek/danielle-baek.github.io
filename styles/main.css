@@ -61,7 +61,7 @@ header h1 {
 
 .wireframeImg {
     width: 90%;
-    
+
 }
 
 
@@ -94,7 +94,10 @@ header h1 {
         font-size: 25px;
     }
 
+    .wireframeImg {
+    width: 90%;
     
+    }
 }
 
 /* Bigger than 550 */
@@ -137,6 +140,11 @@ header h1 {
     .section h2 {
         margin: 80px 0 0 0;
         font-size: 40px;
+    }
+    
+    .wireframeImg {
+    width: 90%;
+    
     }
 }
 
